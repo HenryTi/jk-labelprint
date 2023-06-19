@@ -1,0 +1,59 @@
+{
+    "devs": {
+        "bz": {
+            "name": "bizdev",
+            "alias": "bz"
+        },
+        "br": {
+            "name": "bruce",
+            "alias": "br"
+        },
+        "jksoft": {
+            "name": "jksoft",
+            "alias": "js"
+        },
+        "jk": {
+            "name": "百灵威系统工程部",
+            "alias": "jk"
+        }
+    },
+    "uqs": [
+        {
+            "dev": "jk",
+            "name": "labelprint",
+            "alias": "labelprint"
+        },
+        {
+            "dev": "jk",
+            "name": "customer",
+            "alias": "customer"
+        },
+        {
+            "dev": "jk",
+            "name": "product",
+            "alias": "product"
+        },
+        {
+            "dev": "jk",
+            "name": "RDProduct",
+            "alias": "RDProduct"
+        }
+    ],
+    "uqs1": [
+        {
+            "dev": "jksoft",
+            "name": "jksoft-mini-jxc-trial",
+            "alias": "Ticket"
+        },
+        {
+            "dev": "jksoft",
+            "name": "ticket",
+            "alias": "Ticket"
+        },
+        {
+            "dev": "bz",
+            "name": "jxc",
+            "alias": "Jxc"
+        }
+    ]
+}
